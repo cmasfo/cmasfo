@@ -30,7 +30,10 @@ This is main dev framework for other web or app repositories.
 
 To enhance productivity, it's important to integrate development environment.
 
-This also can be used as cmasfo cli application. (cargo install cmasfo-dev)
+This also can be used as cmasfo cli application.
+
+* cargo install cmasfo-dev
+* cargo cmasfo
 
 ### cmasfo-ssg
 
