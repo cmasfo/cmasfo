@@ -1,0 +1,9 @@
+
+[package]
+name = "cmasfo"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "rust-hello"
+path = "rust-hello/main.rs"
