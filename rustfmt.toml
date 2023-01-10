@@ -1,2 +1,33 @@
 
+# cmasfo coding style is defined here
+
+#
+# important notes
+#
+# * indentation: 2 spaces
+#   * (not tab, for consistency)
+# * tab size: 2
+#   * (8 is too big. but i think 4 is still big too.)
+#   * (but just try to avoid using tabs)
+#   * (it breaks the consistency in most cases)
+# * starting brace: same line
+# * preferred naming convention: snake_case
+#   * (examples: variables, functions, etc.)
+#   * (this is just a preference, for overall namings)
+#   * (the best one is just following pre-existing rules)
+#   * (other considerations: camelCase, PascalCase, etc.)
+# * kebab-case: mostly for filenames
+#   * (other examples: directory, package, url, etc.)
+#   * (consider it like a title, which hyphen replaces spaces)
+#
+
+#
+# subservient notes
+#
+# * this is not about coding style, but use comments whenever you can
+# * use ending comment if block gets somehow long enough
+#   * (for example: } // fn main)
+#   * (honestly, it's not bad even if it's short)
+#
+
 tab_spaces = 2

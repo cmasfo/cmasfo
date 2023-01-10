@@ -1,4 +1,7 @@
 
+# Some projects might be indicated from here
+# for example; rust-hello
+
 [package]
 name = "cmasfo"
 version = "0.1.0"
