@@ -1,5 +1,5 @@
 
-# Why Rust?
+# Rust
 
 I use this repository as main rust archive.
 
