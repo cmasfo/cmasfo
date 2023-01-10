@@ -1,0 +1,26 @@
+
+[package]
+name = "rust-wasm"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+wasm-bindgen = "*"
+wasm-bindgen-futures = "*"
+
+[dependencies.web-sys]
+version = "*"
+features = [
+  "Window",
+  "Document",
+  "Element",
+  "HtmlElement",
+  "console",
+  'Request',
+  'RequestInit',
+  'RequestMode',
+  'Response',
+]

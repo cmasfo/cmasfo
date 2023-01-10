@@ -1,6 +1,6 @@
 
 [package]
-name = "date-button"
+name = "date-interval"
 version = "0.1.0"
 edition = "2021"
 
