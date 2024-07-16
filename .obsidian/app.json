@@ -1,4 +1,11 @@
 {
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "foldHeading": false,
+  "foldIndent": false,
+  "spellcheck": false,
+  "tabSize": 2,
+  "alwaysUpdateLinks": true
 }
