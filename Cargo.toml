@@ -1,0 +1,14 @@
+
+[package]
+name = "cmasfo"
+version = "0.1.0"
+edition = "2021"
+default-run = "cmf"
+
+[[bin]]
+name = "cmf"
+path = "src/bin/_.rs"
+
+[lib]
+name = "cmf"
+path = "src/lib/_.rs"
