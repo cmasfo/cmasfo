@@ -1,5 +1,5 @@
 
 # Index: Home
 
-- [Home: en_us](en_us.md)
+- [[home]]
 - [Home: ko_kr](ko_kr.md)

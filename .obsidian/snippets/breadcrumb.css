@@ -1,0 +1,5 @@
+
+.view-header-breadcrumb,
+.view-header-breadcrumb-separator {
+  display: none;
+}
