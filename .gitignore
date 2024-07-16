@@ -1,2 +1,8 @@
 
+# cargo, rust
 **/target
+
+# obsidian
+/.obsidian/appearance.json
+/.obsidian/workspace*.json
+/.trash
