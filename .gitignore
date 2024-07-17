@@ -8,5 +8,6 @@
 /.obsidian/workspace*.json
 /.trash
 
-# vcpkg
-/vcpkg_installed
+# package manager
+**/node_modules
+**/vcpkg_installed
