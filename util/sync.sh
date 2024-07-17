@@ -7,5 +7,5 @@ fi
 
 git add .
 git commit -am "$msg"
-git pull
-git push -all
+git pull --all
+git push --all
