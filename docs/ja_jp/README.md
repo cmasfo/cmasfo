@@ -1,2 +1,0 @@
-
-# Home: ja_jp

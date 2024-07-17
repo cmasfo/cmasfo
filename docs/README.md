@@ -1,7 +1,10 @@
 
-# Index: Home
+# Index
 
-- [Home: en_us](en_us/README.md)
-- [Home: ja_jp](ja_jp/README.md)
-- [Home: ko_kr](ko_kr/README.md)
-- [Home: zh_cn](zh_cn/README.md)
+## Special Contents
+
+- [Documents Guideline](_documents_guideline/README.md)
+
+## Universal Contents
+
+- [Language](lanauge/README.md)
