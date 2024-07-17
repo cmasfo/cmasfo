@@ -8,4 +8,4 @@
 
 ## Universal Contents
 
-- [Language](lanauge/README.md)
+- [Language](language/README.md)
