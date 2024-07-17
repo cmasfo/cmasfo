@@ -5,10 +5,10 @@ This page provides the brief guideline for overall documentations.
 
 ---
 
-- [Topic-First, Language-Later Rule](#Topic-First,%20Language-Later%20Rule)
-- [English Heading & Subheading Rule](#English%20Heading%20&%20Subheading%20Rule)
-- [File Naming Conventions](#File%20Naming%20Conventions)
-- [Following Certain System](#Following%20Certain%20System)
+- Topic-First, Language-Later Rule
+- English Heading & Subheading Rule
+- File Naming Conventions
+- Following Certain System
 
 ## Topic-First, Language-Later Rule
 
