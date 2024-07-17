@@ -7,5 +7,8 @@
   "foldIndent": false,
   "spellcheck": false,
   "tabSize": 2,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "/[vV][cC][pP][kK][gG]_[iI][nN][sS][tT][aA][lL][lL][eE][dD]/"
+  ]
 }

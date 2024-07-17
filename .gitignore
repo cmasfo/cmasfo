@@ -1,4 +1,5 @@
 
+# build
 **/.build
 **/target
 
@@ -6,3 +7,6 @@
 /.obsidian/appearance.json
 /.obsidian/workspace*.json
 /.trash
+
+# vcpkg
+/vcpkg_installed
