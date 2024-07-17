@@ -1,5 +1,5 @@
 
-build=".cmake/target"
+build=".cmake/build"
 
 cmake -S . -B $build &&
 cmake --build $build &&

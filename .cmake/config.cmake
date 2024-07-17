@@ -17,5 +17,8 @@ set(CMAKE_LIBRARY_OUTPUT_DIRECTORY_DEBUG    ${CMAKE_BINARY_DIR}/lib)
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY_RELEASE  ${CMAKE_BINARY_DIR}/lib)
 
 if(MSVC)
-  set(CMAKE_VS_GLOBALS "VcpkgEnableManifest=true")
+  set(CMAKE_VS_GLOBALS
+    "VcpkgEnableManifest=true"
+    "VcpkgInstalledDir=$ENV{ROOT}/.vcpkg"
+  )
 endif()
