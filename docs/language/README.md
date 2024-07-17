@@ -9,7 +9,7 @@ Instead, I think the 'human language' or the 'social language' would be more pre
 
 But anyway, I'll decided to stick to just 'language' for reducing confusions.
 
-To see languages like programming language or markup language, see [Computer Language](../computer_language/README.md) page instead.
+To see languages like programming language or markup language, see [Computer Language](../comp_lang/README.md) page instead.
 
 This page does not cover that.
 
@@ -21,4 +21,4 @@ This page does not cover that.
 
 ## Related Contents
 
-- [Computer Language](../computer_language/README.md)
+- [Computer Language](../comp_lang/README.md)
