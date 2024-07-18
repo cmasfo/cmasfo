@@ -7,6 +7,8 @@ include(.cmake/config.cmake)
 
 # ---
 
+add_subdirectory(main)
+
 file(GLOB proj_list proj/cmake/*)
 
 foreach(proj ${proj_list})

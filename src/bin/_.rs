@@ -1,4 +1,6 @@
 
+use cmf::run;
+
 fn main() {
-  cmf::run();
+  run();
 }

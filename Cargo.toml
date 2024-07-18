@@ -1,6 +1,7 @@
 
 [workspace]
 members = [
+  "main",
   "proj/cargo/rs_hello",
   "proj/cargo/rs_hello_io",
 ]
