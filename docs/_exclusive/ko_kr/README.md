@@ -1,0 +1,2 @@
+
+# Exclusive: ko_kr

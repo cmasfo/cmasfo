@@ -2,5 +2,8 @@
   "custom-sort",
   "obsidian-alias-from-heading",
   "obsidian-editor-shortcuts",
-  "hide-folders"
+  "hide-folders",
+  "obsidian-image-toolkit",
+  "mousewheel-image-zoom",
+  "obsidian-paste-image-rename"
 ]
