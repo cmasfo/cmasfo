@@ -3,13 +3,5 @@
 version = 3
 
 [[package]]
-name = "cmasfo"
-version = "0.1.0"
-
-[[package]]
 name = "rs_hello"
-version = "0.1.0"
-
-[[package]]
-name = "rs_hello_io"
 version = "0.1.0"

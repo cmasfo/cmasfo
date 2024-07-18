@@ -1,8 +1,0 @@
-
-# Programming Language
-
----
-
-
-
----

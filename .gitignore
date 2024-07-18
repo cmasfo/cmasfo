@@ -6,9 +6,10 @@
 **/target
 
 # obsidian
-/.obsidian/appearance.json
-/.obsidian/workspace*.json
-/.trash
+/.obsidian
+**/.obsidian/appearance.json
+**/.obsidian/workspace*.json
+**/.trash
 
 # package manager
 **/node_modules

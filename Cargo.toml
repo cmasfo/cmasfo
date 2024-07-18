@@ -1,4 +1,10 @@
 
+[workspace]
+members = [
+  "proj/cargo/rs_hello",
+  "proj/cargo/rs_hello_io",
+]
+
 [package]
 name = "cmasfo"
 version = "0.1.0"
