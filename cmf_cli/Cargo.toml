@@ -1,0 +1,13 @@
+
+[package]
+name = "cargo"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "rs"
+path = "bin/rs/_.rs"
+
+[lib]
+name = "rs_lib"
+path = "lib/rs/_.rs"

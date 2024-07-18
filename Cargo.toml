@@ -7,15 +7,15 @@ members = [
 ]
 
 [package]
-name = "cmasfo"
+name = "cargo"
 version = "0.1.0"
 edition = "2021"
-default-run = "cmf"
+default-run = "_"
 
 [[bin]]
-name = "cmf"
+name = "_"
 path = "src/bin/_.rs"
 
 [lib]
-name = "cmf"
+name = "rs_lib"
 path = "src/lib/_.rs"
