@@ -1,6 +1,7 @@
 
-# Index: ko_kr
+# Index: ja_jp
 
+- [Exclusive: ja_jp](ja_jp/README.md)
 - A
 - B
 - C

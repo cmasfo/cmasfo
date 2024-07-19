@@ -1,6 +1,7 @@
 
-# Index: ja_jp
+# Index: zh_cn
 
+- [Exclusive: zh_cn](zh_cn/README.md)
 - A
 - B
 - C

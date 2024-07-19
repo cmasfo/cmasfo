@@ -1,6 +1,7 @@
 
-# Index: zh_cn
+# Index: ko_kr
 
+- [Exclusive: ko_kr](ko_kr/README.md)
 - A
 - B
 - C
