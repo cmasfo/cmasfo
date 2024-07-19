@@ -11,5 +11,27 @@
   "userIgnoreFilters": [
     "/[vV][cC][pP][kK][gG]_[iI][nN][sS][tT][aA][lL][lL][eE][dD]/"
   ],
-  "attachmentFolderPath": "_attachments"
+  "attachmentFolderPath": "_attachments",
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:undo",
+    "editor:redo",
+    "editor:unindent-list",
+    "editor:indent-list",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:configure-toolbar"
+  ]
 }

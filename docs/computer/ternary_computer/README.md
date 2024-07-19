@@ -1,2 +1,0 @@
-
-# Ternary Computer
