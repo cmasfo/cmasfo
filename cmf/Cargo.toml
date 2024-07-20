@@ -1,13 +1,14 @@
 
 [package]
-name = "cargo"
+name = "cmasfo"
 version = "0.1.0"
 edition = "2021"
+default-run = "cmf"
 
 [[bin]]
-name = "rs"
+name = "cmf"
 path = "bin/rs/_.rs"
 
 [lib]
-name = "rs_lib"
+name = "cmf"
 path = "lib/rs/_.rs"
