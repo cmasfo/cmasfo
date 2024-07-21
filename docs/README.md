@@ -1,7 +1,7 @@
 
 # Index: Home
 
-## Universal Contents
+## Common Contents
 
 - [Home](_homepages/README.md)
 
