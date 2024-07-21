@@ -1,2 +1,0 @@
-
-# Exclusive: ja_jp

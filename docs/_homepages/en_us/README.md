@@ -1,2 +1,0 @@
-
-# Exclusive: en_us

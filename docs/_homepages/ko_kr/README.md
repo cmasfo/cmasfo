@@ -1,4 +1,0 @@
-
-# Exclusive: ko_kr
-
-
