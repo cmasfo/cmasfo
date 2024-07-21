@@ -1,8 +1,12 @@
 
 # Index: Home
 
-- `en`
-	- [Home: English](_homepages/en.md)
+## Universal Contents
+
+- [Home](_homepages/README.md)
+
+## Specfic Contents
+
 - `en_us`
 	- [Home: English (US)](_homepages/en_us.md)
 - `ko_kr`
