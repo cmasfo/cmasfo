@@ -1,11 +1,11 @@
 
 # Index: Home
 
-## Common Contents
+## Universal Contents
 
 - [Home](_homepages/README.md)
 
-## Specfic Contents
+## Localized Contents
 
 - `en_us`
 	- [Home: English (US)](_homepages/en_us.md)
