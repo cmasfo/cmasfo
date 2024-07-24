@@ -1,2 +1,0 @@
-
-# Home: Japanese (JP)

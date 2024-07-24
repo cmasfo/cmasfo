@@ -11,7 +11,7 @@
   "userIgnoreFilters": [
     "/[vV][cC][pP][kK][gG]_[iI][nN][sS][tT][aA][lL][lL][eE][dD]/"
   ],
-  "attachmentFolderPath": "_attachments",
+  "attachmentFolderPath": "_media",
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
     "editor:insert-embed",
